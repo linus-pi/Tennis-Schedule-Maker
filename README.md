@@ -1,4 +1,4 @@
-# Tennis Schedule Generator
+# Tennis Schedule Generat0r
 
 This project contains a Python script to generate a tennis schedule from an Excel file.
 
